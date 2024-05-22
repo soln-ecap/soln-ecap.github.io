@@ -58,19 +58,19 @@ d:
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub
 
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\agentwiki
-git add .  && git commit -m"wiki code by kevin" && git push 
+git add .  && git commit -m"wiki code by lk" && git push 
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\botwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\kscwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\biwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\solnwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\corpwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\aiwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 ```
 
 ####  下载wikicode网站源码地址
@@ -129,21 +129,21 @@ git clone https://github.com/ai-ecap/ai-ecap.github.io
 d:
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap\soln-ecap.github.io
-git add .  && git commit -m"wiki code by kevin" && git push || git push
+git add .  && git commit -m"wiki code by lk" && git push || git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap\agent-ecap.github.io
-git add .  && git commit -m"wiki code by kevin" && git push || git push
+git add .  && git commit -m"wiki code by lk" && git push || git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap\bot-ecap.github.io
-git add .  && git commit -m"wiki code by kevin" && git push || git push
+git add .  && git commit -m"wiki code by lk" && git push || git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap\kcs-ecap.github.io
-git add .  && git commit -m"wiki code by kevin" && git push || git push
+git add .  && git commit -m"wiki code by lk" && git push || git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap\bi-ecap.github.io
-git add .  && git commit -m"wiki code by kevin" && git push || git push
+git add .  && git commit -m"wiki code by lk" && git push || git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap\soln-ecap.github.io
-git add .  && git commit -m"wiki code by kevin" && git push || git push
+git add .  && git commit -m"wiki code by lk" && git push || git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap\corp-ecap.github.io
-git add .  && git commit -m"wiki code by kevin" && git push || git push
+git add .  && git commit -m"wiki code by lk" && git push || git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\github.io.ecap\ai-ecap.github.io
-git add .  && git commit -m"wiki code by kevin" && git push || git push
+git add .  && git commit -m"wiki code by lk" && git push || git push
 ```
 
 #### 推送Wikicode源码更新的脚本
@@ -153,19 +153,19 @@ d:
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub
 
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\agentwiki
-git add .  && git commit -m"wiki code by kevin" && git push 
+git add .  && git commit -m"wiki code by lk" && git push 
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\botwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\kscwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\biwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\solnwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\corpwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap\aiwiki
-git add .  && git commit -m"wiki code by kevin" && git push
+git add .  && git commit -m"wiki code by lk" && git push
 
 cd ..
 
@@ -178,7 +178,7 @@ cd ..
 ```
 d:
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap 
-git add . && git commit -m"update file by keivn" && git push
+git add . && git commit -m"update file by lk , auto by job" && git push
 gitbook build && start pushfile_copy.cmd
 ```
 
@@ -189,6 +189,6 @@ d:
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\wikiecap _book
 xcopy  /E /Y * "D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\6LLM.github.io" 
 cd D:\sourcecode\ecap-NN\ChatGPT\sourcecode\2024\myGithub\6LLM.github.io
-git add . && git commit -m"update file by keivn" && git push
+git add . && git commit -m"update file by lk , auto by job" && git push
 ```
 
